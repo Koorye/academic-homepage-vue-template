@@ -1,4 +1,5 @@
 export default {
+  avatar: new URL('../../assets/profile.png', import.meta.url).href,
   name: '张三',
   email: 'san.zhang@example.com',
   navs: [

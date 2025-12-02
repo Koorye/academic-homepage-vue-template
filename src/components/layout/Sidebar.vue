@@ -1,7 +1,7 @@
 <template>
   <aside class="sidebar">
     <div class="profile-section">
-      <img class="avatar" src="../../assets/profile.png" alt="Profile Picture" />
+      <img class="avatar" :src="t('sections.avatar')" alt="Profile Picture" />
       <h1 class="name">{{ t('sections.name') }}</h1>
       <div class="location">
          <a :href="`mailto:${t('sections.email')}`">{{ t('sections.email') }}</a>
