@@ -1,5 +1,7 @@
 # Academic Homepage Template Vue
 
+[Readme](README.md) | [中文说明](README_zh-CN.md)
+
 欢迎访问我的[学术主页](https://koorye.github.io/home/)！
 
 ![Overview](examples/overview.jpg)
