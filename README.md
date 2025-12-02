@@ -1,6 +1,6 @@
 # Academic Homepage Template Vue
 
-[Readme](README.md) | [Chinese Documentation](README_zh-CN.md)
+[Readme](README.md) | [中文说明](README_zh-CN.md)
 
 Welcome to my [academic homepage](https://koorye.github.io/home/)!
 
